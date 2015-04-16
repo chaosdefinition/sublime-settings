@@ -1,0 +1,14 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Codecs33",
+		"ConvertToUTF8",
+		"Markdown Preview",
+		"Open",
+		"Open-Include",
+		"Package Control"
+	]
+}
