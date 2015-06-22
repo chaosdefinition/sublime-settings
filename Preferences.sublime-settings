@@ -1,3 +1,5 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by file type specific settings.
 {
 	"auto_complete_cycle": true,
 	"color_scheme": "Packages/Color Scheme - Default/Cobalt.tmTheme",
@@ -13,6 +15,6 @@
 	],
 	"scroll_past_end": false,
 	"show_encoding": true,
-	"tab_size": 4,
+	"tab_size": 8,
 	"trim_trailing_white_space_on_save": true
 }
