@@ -1,0 +1,5 @@
+[
+	// exchange shortcuts of these two commands
+	{ "keys": ["ctrl+shift+o"], "command": "prompt_open_file" },
+	{ "keys": ["ctrl+o"], "command": "open_browse" }
+]
