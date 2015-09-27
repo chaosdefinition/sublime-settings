@@ -16,7 +16,7 @@
 	],
 	"scroll_past_end": false,
 	"show_encoding": true,
-	"show_encoding": true,
+	"show_line_endings": true,
 	"tab_completion": false,
 	"tab_size": 8,
 	"trim_trailing_white_space_on_save": true

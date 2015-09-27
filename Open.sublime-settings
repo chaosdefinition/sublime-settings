@@ -6,5 +6,6 @@
 		"~/Downloads",
 		"/usr/include"
 	],
-	"bookmark_prefix": "%d"
+	"bookmark_prefix": "%d",
+	"list_current_dir": true
 }
