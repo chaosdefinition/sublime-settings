@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Brainfuck",
 		"Codecs33",
 		"ConvertToUTF8",
 		"Markdown Preview",
