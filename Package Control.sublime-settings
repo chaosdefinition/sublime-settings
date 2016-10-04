@@ -6,14 +6,13 @@
 	"installed_packages":
 	[
 		"Brainfuck",
-		"Codecs33",
 		"ConvertToUTF8",
+		"LaTeX-cwl",
 		"LaTeXTools",
 		"Markdown Preview",
 		"MasmAssembly",
 		"MIPS Syntax",
 		"Open",
-		"Open-Include",
 		"Package Control"
 	]
 }
