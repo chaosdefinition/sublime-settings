@@ -2,6 +2,7 @@
 // and are overridden in turn by file type specific settings.
 {
 	"auto_complete_cycle": true,
+	"caret_extra_width": 2,
 	"color_scheme": "Packages/Color Scheme - Default/Cobalt.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Source Code Pro",
