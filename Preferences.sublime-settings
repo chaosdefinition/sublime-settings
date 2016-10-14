@@ -1,9 +1,11 @@
 // Settings in here override those in "Default/Preferences.sublime-settings",
 // and are overridden in turn by file type specific settings.
 {
+	"always_show_minimap_viewport": true,
 	"auto_complete_cycle": true,
 	"caret_extra_width": 2,
 	"color_scheme": "Packages/Color Scheme - Default/Cobalt.tmTheme",
+	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Source Code Pro",
 	"font_size": 14,
