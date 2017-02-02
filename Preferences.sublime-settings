@@ -20,6 +20,7 @@
 		80
 	],
 	"scroll_past_end": false,
+	"spell_check": true,
 	"show_encoding": true,
 	"show_line_endings": true,
 	"tab_completion": false,
