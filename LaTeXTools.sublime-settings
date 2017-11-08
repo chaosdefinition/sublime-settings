@@ -198,6 +198,7 @@
 		"display_log" : false,
 
 		"options": [
+			"-bibtex",
 			"--shell-escape"
 		],
 
