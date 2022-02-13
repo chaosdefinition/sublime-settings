@@ -20,11 +20,12 @@
 		80
 	],
 	"scroll_past_end": false,
-	"spell_check": true,
 	"show_encoding": true,
 	"show_line_endings": true,
+	"spell_check": true,
 	"tab_completion": false,
 	"tab_size": 8,
 	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
 	"word_wrap": false
 }
